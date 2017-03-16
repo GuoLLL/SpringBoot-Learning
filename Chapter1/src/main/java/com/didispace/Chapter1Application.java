@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Chapter1Application {
 
 	public static void main(String[] args) {
-		//测试修改
 		SpringApplication.run(Chapter1Application.class, args);
 	}
 
